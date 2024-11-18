@@ -2,33 +2,33 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "263717750825"
+global.ownernomer = "9203185051357"
 global.ownername = "Precious Ayomide👑"
 global.ytname = "YT: Prexzyvilla"
 global.socialm = "GitHub: Prexzybooster"
-global.location = "Nigeria, Osun, Osogbo"
+global.location = "kashmir, Osun, Osogbo"
 
-global.ownernumber = '263717750825'  //creator number
-global.ownername = 'Precious Ayomide👑' //owner name
+global.ownernumber = '9203185051357'  //creator number
+global.ownername = 'zoraib ajk👑' //owner name
 global.botname = 'PREXZY ᵇᵘᵍ ᵇᵒᵗ' //name of the bot
 
 //sticker details
 global.packname = 'Sticker By'
-global.author = 'PREXZY👑\n\nContact: +263717750825'
+global.author = 'zoraib👑\n\nContact: +9203185051357'
 
 //console view/theme
 global.themeemoji = '🪀'
 global.wm = "PREXZYVILLA."
 
 //theme link
-global.link = 'https://whatsapp.com/channel/0029VaaUfPO8qIzztuf42D04'
+global.link = 'https://chat.whatsapp.com/FkzJJpVdLixA6KGw04kqv2'
 
 //custom prefix
 global.prefa = ['','!','.','#','&']
 
 //false=disable and true=enable
 global.autoRecording = false //auto recording
-global.autoTyping = false //auto typing
+global.autoTyping = false //auto typing Zoraib
 global.autorecordtype = false //auto typing + recording
 global.autoread = false //auto read messages
 global.autobio = true //auto update bio
